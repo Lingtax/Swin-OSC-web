@@ -10,8 +10,8 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
-# Institute Open Research Community website template
+# Swinburne Open Research Community website 
 
-This is the repo for the Institutional Open Research Community website template.  
+This is the repo for the Swinburne Open Research Community website.  
 
 The website is built using blogdown, and implements the timer hugo template. 

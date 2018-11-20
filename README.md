@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-Institute Open Research Community website template
-==================================================
+Swinburne Open Research Community website
+=========================================
 
 This is the repo for the Swinburne Open Research Community website.
 
