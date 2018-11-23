@@ -1,14 +1,12 @@
 enable  : true
 title   : Network Executive
 members  :
-  - name  : Mathew Ling
-    image : images/team/M_Ling_web.jpg
+  - name  : Jennifer Beaudry
+    image : images/team/Beaudry_Headshot_2018.jpg
     designation : Interim Co-ordinator
-    description : Mathew is a Lecturer in Psychology at Deakin University and is eager to share responsibility for MOSN with other like minded radicals. 
-    twitter     : https://www.twitter.com/lingtax
-    linkedIn    : https://www.linkedin.com/in/mathew-ling-940a5497/
+    description : Jennifer is a Senior Lecturer in Psychological Sciences (School of Health Sciences; Faculty of Health, Arts and Design) and is a passionate advocate for Open Science. 
+    twitter     : https://www.twitter.com/drjbeaudry
 
-  
 #  - name  : Jesmin Martina
 #    image : images/team/team-2.jpg
 #    designation : CEO, Project Manager

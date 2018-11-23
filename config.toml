@@ -46,7 +46,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         #btnText = "Download More"
         #btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "COMMUNITY"
+            title   = "NETWORK"
         [[params.banner.flipText]]
             title   = "ADVOCACY"
         [[params.banner.flipText]]
