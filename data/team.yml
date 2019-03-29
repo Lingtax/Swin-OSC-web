@@ -6,6 +6,11 @@ members  :
     designation : 
     description : Jennifer is a Senior Lecturer in Psychological Sciences and Academic Director (Research Training) for the School of Health Sciences and is a passionate advocate for open science.
     twitter     : https://www.twitter.com/drjbeaudry
+  - name  : Professor Tom Johnstone
+    image : images/team/tom_photo.jpg
+    designation : 
+    description : Tom is a Professor of Cognitive Neuroscience and Director of Neuroimaging. Tom is overseeing development of open data and open analysis platforms for the Swinburme node of the National Imaging Facility. 
+    twitter     : https://www.twitter.com/itjohnstone
 
 #  - name  : Jesmin Martina
 #    image : images/team/team-2.jpg
