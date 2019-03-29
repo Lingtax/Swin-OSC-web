@@ -56,14 +56,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT THE COMMUNITY"
-        content = "Open Science and open research practices are growing in Australia, but discovering Open reviewing, pre-prints, computational reproducibility etc. can feel like an isolating experience. This is a collective which aims to promote open practices at Swinburne, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. <br>We aim to help you find like-minded folks, promote learning (not judgement), support efforts to reform institutional policies and practices, and educate others about open research practices."
+        content = "Open Science and open research practices are growing in Australia, but discovering open reviewing, pre-prints, computational reproducibility etc. can feel like an isolating experience. This is a collective which aims to promote open practices at Swinburne, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. <br>We aim to help you find like-minded folks, promote learning (not judgement), support efforts to reform institutional policies and practices, and educate others about open research practices."
         image   = "images/about/Swinburne.png"
 
     # Call to Action
     [params.cta]
         enable  = false
         title   = "Do you want to know more?"
-        content = "Get in touch and help us grow this community further.</br>You might not be the only person in your division or faculty, let us know so we can start linking you with people in your area."
+        content = "Get in touch and help us grow this community further.</br>You might not be the only person in your faculty or department, let us know so we can start linking you with people in your area."
         btnText = "Contact us"
         btnURL  = "/contact"
 
