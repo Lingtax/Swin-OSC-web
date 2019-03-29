@@ -1,9 +1,9 @@
 enable  : true
-title   : Network Executive
+title   : Community Leaders
 members  :
-  - name  : Jennifer Beaudry
+  - name  : Dr Jennifer Beaudry
     image : images/team/Beaudry_Headshot_2018.jpg
-    designation : Interim Co-ordinator
+    designation : false
     description : Jennifer is a Senior Lecturer in Psychological Sciences (School of Health Sciences; Faculty of Health, Arts and Design) and is a passionate advocate for Open Science. 
     twitter     : https://www.twitter.com/drjbeaudry
 
