@@ -6,3 +6,6 @@ Swinburne Open Research Community website
 This is the repo for the Swinburne Open Research Community website.
 
 The website is built using blogdown, and implements the timer hugo template.
+
+The website is currently: https://swinopenresearch.netlify.com
+
